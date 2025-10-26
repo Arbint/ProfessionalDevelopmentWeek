@@ -1,0 +1,13 @@
+# Professional Dev Week Interns
+
+[Blizzard Game Engineers](https://careers.blizzard.com/global/en/job/R025908/2026-US-Summer-Internships-Game-Engineering)
+
+[Blizzard Tech Art Intern](https://careers.blizzard.com/global/en/job/R025921/2026-US-Summer-Internships-Tech-Art)
+
+[Raven Software Game Engineering](https://careers.ravensoftware.com/job/R025908/2026-US-Summer-Internships-Game-Engineering)
+
+[Epic Games Gameplay Programmer Intern](https://www.epicgames.com/site/en-US/careers/jobs/5661819004)
+
+[Epic Games Gameplay System Intern](https://www.epicgames.com/site/en-US/careers/jobs/5686204004)
+
+[Interns on Indeed](https://www.indeed.com/jobs?q=game+developer+intern&l=&from=searchOnDesktopSerp&cf-turnstile-response=0.G9vQlzlMOjw_JmMrwThwZ3pBJMyM9QTIyxU-V95lmwFbpirhcxeag4Fpi31qHSQsYY5tZLE7NoM-ZG_mlz3qEVUKrf8oJGzRGlo3x62lQ--UQvJYoXPVIuAQqbs9JPOWTYIeyBbpJGBcwthstWxEfZ-hwFxk6kl5DcvtghYSoJSW652xbopEqfPw6VR9Na-aIJdFD-WsUqois4969sPhTjo3sK7hhDmlfo7fCXQwg0pBYDK-sO0lhubg3gM4WYb2F9Dsd0Q-_JLi1zPJ5GVVzCPr-cGI0B_S-2opTuP0dHZWFTLB9CjSE0VGm_A2p7Tun1Qv3kEAsuPPsrm3JFBWwlJZ7nNU-u66OPlOI7JT82JuYGPKgVDN98xAg9tRtktWu6mHQMERaBBekXLMCukNJ7sSg6WeSvp92ZUIqwpXpOfaaTQxJ0q_1DvoLviAsa0QOW8qR2cU3HJEAP7IMZy8TwhwwRQE8W8algrqdPmgF3XxpbvVYbl4r14qraq7dG7HxctrxADLd0nSITL9TqRft7ICEDH_tvg6lQNRUuobULMyKl7pQbHyai82jALGT2cUvkIU5RFiTpTlevYuQoizNrWYCaU1y2DY8KTX5tamOIw5-1NJrc0U5uWbukevDRWpUQBa40YVxMtmXyRhM4YIUdWHT9wpwx4C4-AF6DBLbK9UhdbXQoxEmtE3ujvXFisGOWrC0on80h5NBGRcw9dvHls321ucoTc0SXW0Ra15VHZ_zWaPodhCMjW7nuCaGj77qg9efXyZNCRL_QOftSeYndkpvqwXSlW2OkJfHkc1kETe73J7qSOeycvYfoS1Dyisv4uSv39tS0kMtB_zZXdySFOke3yTGmYf0pmIn2wvlKB2FXq9uvxjNxgKghgTYvqbd1gkMO3BjLSiYMQDzt_OvXVPYopt8Ft40KJTfvffunKXw0HP-QL7b3SYSxdqSnUceADepmHkgKZorKAasvt_gg.c5NoR1MnOtneFKI5gSnLqA.b0798e3d954ac63ed966cfb6fe6b8ac82408ecfc150401f808cf6c8af753df3d&vjk=e6237e24f358651b)
