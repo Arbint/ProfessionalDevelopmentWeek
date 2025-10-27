@@ -5,7 +5,7 @@
 * What should I work on to meet the requirments
   
 [Resume](./Gameplay_Programmer_Resume_01.pdf)
-
+-----------------------------
 [Blizzard Tech Art Intern](https://careers.blizzard.com/global/en/job/R025921/2026-US-Summer-Internships-Tech-Art)
 
 [Raven Software Game Engineering](https://careers.ravensoftware.com/job/R025908/2026-US-Summer-Internships-Game-Engineering)
