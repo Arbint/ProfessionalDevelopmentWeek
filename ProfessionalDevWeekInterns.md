@@ -1,6 +1,8 @@
 # Professional Dev Week Interns
 
 [Blizzard Game Engineers](https://careers.blizzard.com/global/en/job/R025908/2026-US-Summer-Internships-Game-Engineering)
+* Why is this a good fit for me
+* What should I work on to fufil then requirments
 
 [Blizzard Tech Art Intern](https://careers.blizzard.com/global/en/job/R025921/2026-US-Summer-Internships-Tech-Art)
 
