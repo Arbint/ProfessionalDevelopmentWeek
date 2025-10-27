@@ -3,6 +3,7 @@
 [Blizzard Game Engineers](https://careers.blizzard.com/global/en/job/R025908/2026-US-Summer-Internships-Game-Engineering)
 * Why is this a good fit for me
 * What should I work on to meet the requirments
+  
 [Resume](./Gameplay_Programmer_Resume_01.pdf)
 
 [Blizzard Tech Art Intern](https://careers.blizzard.com/global/en/job/R025921/2026-US-Summer-Internships-Tech-Art)
